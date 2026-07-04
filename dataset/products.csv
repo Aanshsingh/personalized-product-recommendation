@@ -1,0 +1,57 @@
+product_id,product_name,category,tags,image
+101,Gaming Laptop,electronics,"technology coding programming student",https://images.unsplash.com/photo-1517336714739-489689fd1ca8
+102,Finance Book,books,"finance business commerce investment",https://images.unsplash.com/photo-1524995997946-a1c2e315a42f
+103,Graphic Tablet,electronics,"design art creativity drawing",https://images.unsplash.com/photo-1516321318423-f06f85e504b3
+104,Programming Course,education,"coding technology software development",https://images.unsplash.com/photo-1515879218367-8466d910aaa4
+105,Marketing Masterclass,education,"marketing business management growth",https://images.unsplash.com/photo-1552664730-d307ca884978
+106,AI Toolkit,electronics,"AI machine-learning programming technology",https://images.unsplash.com/photo-1485827404703-89b55fcc595e
+107,Web Development Bootcamp,education,"web development react javascript frontend",https://images.unsplash.com/photo-1498050108023-c5249f4df085
+108,Python Programming Book,books,"python coding programming software",https://images.unsplash.com/photo-1512820790803-83ca734da794
+109,Business Analytics Course,education,"business analytics data management",https://images.unsplash.com/photo-1554224155-6726b3ff858f
+110,Wireless Headphones,electronics,"music audio wireless gadget",https://images.unsplash.com/photo-1505740420928-5e560c06d30e
+111,Smart Watch,electronics,"fitness smartwatch wearable technology",https://images.unsplash.com/photo-1523275335684-37898b6baf30
+112,Digital Marketing Book,books,"marketing SEO business branding",https://images.unsplash.com/photo-1517842645767-c639042777db
+113,Graphic Design Course,education,"design photoshop creativity graphics",https://images.unsplash.com/photo-1496171367470-9ed9a91ea931
+114,Mechanical Keyboard,electronics,"gaming typing coding keyboard",https://images.unsplash.com/photo-1511467687858-23d96c32e4ae
+115,Photography Camera,electronics,"photography camera creativity editing",https://images.unsplash.com/photo-1516035069371-29a1b244cc32
+116,Investment Guide Book,books,"finance investment stock market",https://images.unsplash.com/photo-1554224154-26032ffc0d07
+117,Machine Learning Course,education,"AI machine-learning python data-science",https://images.unsplash.com/photo-1485827404703-89b55fcc595e
+118,UI UX Design Toolkit,electronics,"UI UX design creativity frontend",https://images.unsplash.com/photo-1460925895917-afdab827c52f
+119,Data Science Handbook,books,"data-science analytics python AI",https://images.unsplash.com/photo-1516321318423-f06f85e504b3
+120,Cyber Security Course,education,"cybersecurity networking ethical-hacking",https://images.unsplash.com/photo-1510511459019-5dda7724fd87
+121,Gaming Mouse,electronics,"gaming coding hardware accessories",https://images.unsplash.com/photo-1527814050087-3793815479db
+122,Startup Strategy Book,books,"startup entrepreneurship business growth",https://images.unsplash.com/photo-1520607162513-77705c0f0d4a
+123,Cloud Computing Course,education,"cloud AWS backend devops",https://images.unsplash.com/photo-1451187580459-43490279c0fa
+124,Bluetooth Speaker,electronics,"music entertainment gadget audio",https://images.unsplash.com/photo-1507878866276-a947ef722fee
+125,AI Robotics Kit,electronics,"robotics AI machine-learning electronics",https://images.unsplash.com/photo-1535378917042-10a22c95931a
+126,Commerce Accounting Book,books,"commerce accounting finance taxation",https://images.unsplash.com/photo-1554224155-8d04cb21cd6c
+127,React Masterclass,education,"react frontend javascript web-development",https://images.unsplash.com/photo-1498050108023-c5249f4df085
+128,Java Programming Course,education,"java backend software programming",https://images.unsplash.com/photo-1515879218367-8466d910aaa4
+129,Office Laptop,electronics,"business productivity office technology",https://images.unsplash.com/photo-1496181133206-80ce9b88a853
+130,Fashion Design Book,books,"fashion design creativity art",https://images.unsplash.com/photo-1445205170230-053b83016050
+131,Video Editing Course,education,"video editing creativity premiere",https://images.unsplash.com/photo-1492691527719-9d1e07e534b4
+132,Noise Cancelling Earbuds,electronics,"audio music wireless gadget",https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb
+133,Entrepreneurship Course,education,"startup entrepreneurship leadership business",https://images.unsplash.com/photo-1521737604893-d14cc237f11d
+134,Drawing Tablet,electronics,"drawing creativity design graphics",https://images.unsplash.com/photo-1516321497487-e288fb19713f
+135,Financial Planning Course,education,"finance investment planning business",https://images.unsplash.com/photo-1554224154-22dec7ec8818
+136,Artificial Intelligence Book,books,"AI deep-learning neural-networks",https://images.unsplash.com/photo-1485827404703-89b55fcc595e
+137,DevOps Engineering Course,education,"devops docker kubernetes cloud",https://images.unsplash.com/photo-1451187580459-43490279c0fa
+138,Portable SSD,electronics,"storage technology coding files",https://images.unsplash.com/photo-1591488320449-011701bb6704
+139,Interior Design Guide,books,"interior design creativity architecture",https://images.unsplash.com/photo-1484154218962-a197022b5858
+140,Android Development Course,education,"android java mobile-app development",https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c
+141,VR Headset,electronics,"gaming VR entertainment technology",https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac
+142,Economics Fundamentals Book,books,"economics commerce finance business",https://images.unsplash.com/photo-1520607162513-77705c0f0d4a
+143,Blockchain Course,education,"blockchain crypto technology development",https://images.unsplash.com/photo-1639762681485-074b7f938ba0
+144,Professional Microphone,electronics,"podcast audio recording streaming",https://images.unsplash.com/photo-1516280440614-37939bbacd81
+145,Architecture Design Course,education,"architecture design creativity engineering",https://images.unsplash.com/photo-1503387762-592deb58ef4e
+146,SQL Database Book,books,"SQL database backend data",https://images.unsplash.com/photo-1544383835-bda2bc66a55d
+147,Gaming Chair,electronics,"gaming productivity comfort coding",https://images.unsplash.com/photo-1598550476439-6847785fcea6
+148,Content Writing Course,education,"content writing blogging marketing",https://images.unsplash.com/photo-1455390582262-044cdead277a
+149,Smartphone Gimbal,electronics,"video photography content-creation",https://images.unsplash.com/photo-1516035069371-29a1b244cc32
+150,Ethical Hacking Book,books,"cybersecurity hacking networking",https://images.unsplash.com/photo-1510511459019-5dda7724fd87
+151,Full Stack Development Course,education,"full-stack react nodejs mongodb",https://images.unsplash.com/photo-1498050108023-c5249f4df085
+152,Portable Monitor,electronics,"productivity office coding technology",https://images.unsplash.com/photo-1527443224154-c4a3942d3acf
+153,Leadership Skills Book,books,"leadership management motivation business",https://images.unsplash.com/photo-1517048676732-d65bc937f952
+154,AI Voice Assistant Kit,electronics,"AI voice-assistant machine-learning",https://images.unsplash.com/photo-1485827404703-89b55fcc595e
+155,Graphic Animation Course,education,"animation graphics creativity motion",https://images.unsplash.com/photo-1496171367470-9ed9a91ea931
+156,Networking Essentials Book,books,"networking cybersecurity systems",https://images.unsplash.com/photo-1510511459019-5dda7724fd87
